@@ -7,4 +7,4 @@ def test_load_operations():
     data = load_operations()
     assert isinstance(data, list)
 
-
+def test_
